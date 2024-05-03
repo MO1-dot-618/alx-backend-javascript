@@ -3,5 +3,5 @@ export default function getListStudentIds(array) {
   if (!(Array.isArray(array)) || !array) {
     return [];
   }
-  return array.map(({ id, firstname, location }) => id);
+  return array.map(({ id, firstName, location }) => id);
 }

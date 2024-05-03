@@ -3,5 +3,5 @@ export default function getListStudents() {
     [1, 'Guillaume', 'San Francisco'],
     [2, 'James', 'Columbia'],
     [5, 'Serena', 'San Francisco'],
-  ].map(([id, firstname, location]) => ({ id, firstname, location }));
+  ].map(([id, firstName, location]) => ({ id, firstName, location }));
 }
