@@ -8,7 +8,8 @@
     },
     "devDependencies": {
         "chai": "^4.4.1",
-        "mocha": "^9.2.2"
+        "mocha": "^9.2.2",
+        "sinon": "^18.0.0"
     },
     "author": "Malika",
     "license": "ISC"
